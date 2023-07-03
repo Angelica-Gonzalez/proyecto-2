@@ -240,7 +240,12 @@ li.menu a.active{
 
     .anclas ul{
         font-size: 15px;
-    }     
+    }
+    
+    li.menu a.active{
+        background-color: #D5E0E5;
+        border-radius: 20px; 
+    }
 }
 
 footer{
